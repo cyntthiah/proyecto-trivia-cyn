@@ -1,0 +1,33 @@
+.Titulo {
+  display: inline-block;
+  font-style: normal;
+  font-weight: bold;
+}
+
+.Bienvenido {
+   padding-left : 65%;
+   font-style: italic;
+   font-weight: bold;
+   font-size: 1.5rem;
+}
+
+.Titulo2 {
+   text-align: center;
+   font-style: italic;
+   font-weight: bold;
+}
+.bloques {
+  display: inline-block;
+}
+
+.Relleno {
+  text-align: center;
+}
+
+.bloque1 {
+  padding-right: 10%;
+}
+
+.bloque2 {
+  padding-left: 10%;
+}
